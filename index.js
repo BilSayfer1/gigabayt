@@ -70,7 +70,7 @@ open_close_modal(close_buttons, false)
 //     slidesindex = (slides.length + slidesindex + n) % slides.length;
 
 //     slides[slidesindex].classList.remove('hide');
-// }
+// }c
 
 // next_btn.onclick = () => {
 //     slidesshow(1);
